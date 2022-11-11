@@ -1,3 +1,3 @@
-# xml-validator
- Validazione di file xml con xsd e dtd attraverso un sito web
- Se è ancora presente è possibile usufruire del sito all'indirizzo <a href="https://masone.ddns.net/xml-validator/" target="_blank">https://masone.ddns.net/xml-validator/</a>
+# json-xml-conveter
+ Covertitore da XML a JSON e viceversa
+ Se è ancora presente è possibile usufruire del sito all'indirizzo <a href="https://masone.ddns.net/json-xml-converter/" target="_blank">https://masone.ddns.net/json-xml-conveter/</a>
