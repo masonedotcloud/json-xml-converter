@@ -1,3 +1,3 @@
 # json-xml-conveter
  Covertitore da XML a JSON e viceversa
- Se è ancora presente è possibile usufruire del sito all'indirizzo <a href="https://masone.ddns.net/json-xml-converter/" target="_blank">https://masone.ddns.net/json-xml-conveter/</a>
+ Se è ancora presente è possibile usufruire del sito all'indirizzo <a href="https://masone.cloud/json-xml-converter/" target="_blank">https://masone.ddns.net/json-xml-conveter/</a>
