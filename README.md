@@ -1,6 +1,6 @@
-# JSON - XML CONVERTER
+# Json - Xml converter
 
-"JSON - XML CONVERTER"! Questo è un semplice strumento web che consente di convertire facilmente tra i formati JSON e XML.
+"Json - Xml converter"! Questo è un semplice strumento web che consente di convertire facilmente tra i formati JSON e XML.
 
 ## Descrizione
 
