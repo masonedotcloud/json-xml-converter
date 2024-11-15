@@ -26,11 +26,12 @@ Il progetto utilizza le seguenti dipendenze:
 - jQuery 3.6.0
 - Bootstrap 5.0.2
 
-## Contributi
-
-Siete invitati a contribuire a questo progetto aprendo issue o inviando pull request. Sono benvenuti suggerimenti, correzioni e miglioramenti di qualsiasi tipo.
-
 ## Licenza
 
-Questo progetto è distribuito con licenza MIT
+Questo progetto è distribuito sotto la Licenza MIT - vedi il file [LICENSE](LICENSE) per ulteriori dettagli.
+
+
+## Autore
+
+Questo progetto è stato creato da [alessandromasone](https://github.com/alessandromasone).
 
